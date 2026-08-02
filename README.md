@@ -80,35 +80,13 @@ output.exe
 - Prepare for Coding Interviews and Placements
 
 ## 📈 Progress
-|--Basics/
 
-|--IfElseproblem/
-|--Loop/
-|--patterns/
-|--Operator/
-|--WhileDo-While/
-|--Binary to Decimal&Octa/
-|--Functions/
-│-- Arrays/
-│-- Sorting/
-|--STL/
-│-- Searching/
-│-- Strings/
-|--KMP/
-|--Pointers/
-│-- Recursion/
-|--OOPS/
-│-- Linked List/
-│-- Stack/
-│-- Queue/
-│-- Trees/
-|--Heap/
-|--Sliding Window/
-│-- Graph/
-|--Backtracking/
-|--Greedy Algoritm/
-│-- Dynamic Programming/
-│-- README.md
+
+
+
+
+
+         
 
 
 ## 🤝 Contributions
