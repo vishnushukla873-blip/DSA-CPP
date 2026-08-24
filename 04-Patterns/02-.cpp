@@ -7,7 +7,7 @@ int main()
     {
         for(col = 1 ; col<=7 ; col++)
         {
-            cout<<"*";
+            cout<<"V";
 
         }
         cout<<endl ;

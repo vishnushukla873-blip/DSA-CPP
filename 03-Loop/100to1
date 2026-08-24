@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std ;
+int main ()
+{
+    int i = 100 ;
+    int i , n ;
+    cout<<"Enter the number from 100 to 1"<<endl;
+    for( i = n ; i>=1 ; i--)
+    {
+        cout<<i<<endl ;
+    }
+
+}

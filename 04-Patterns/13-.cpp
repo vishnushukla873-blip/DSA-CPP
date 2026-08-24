@@ -3,11 +3,11 @@ using namespace std ;
 int main()
 {
     int row , col ;
-    for(row = 1 ; row<=5 ; row++)
+    for(row=1;row<=7;row++)
     {
-        for(col = 1 ; col<=5 ; col++)
+        for(col=row;col<=9;col++)
         {
-            cout<<col*col<<" ";
+            cout<<col<<" ";
         }
         cout<<endl;
     }

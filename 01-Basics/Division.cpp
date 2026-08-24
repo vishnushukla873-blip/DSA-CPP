@@ -6,7 +6,7 @@ int main()
   cout<<"Enter two numbers:";
   cin>>a>>b;
   div = a/b;
-  cout<<"Division of"<<a<<" and "<<b<<" is "<<div;
+  cout<<"Division of :"<<a<<" and "<<b<<" is "<<div;
   cout<<endl;
   return 0;
 }
