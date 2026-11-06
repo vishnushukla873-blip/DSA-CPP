@@ -1,13 +1,10 @@
 #include<iostream>
-using namespace std;
+using namespace std ;
 int main()
-{
-   int a , b , mul;
-   cout<<"Enter two numbers:";
-   cin>>a>>b;
-   mul = a*b;
-   cout<<"Multiplication of"<<a<<" and "<<b<<" is "<<mul;
-   cout<<endl;
-   return 0;
-
+{   int a ,b;
+cout<<"first number of a";
+cin>>a ;
+cout<<"second number of b";
+cin>>b ;
+cout<<a*b;
 }
