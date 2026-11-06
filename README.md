@@ -83,7 +83,8 @@ output.exe
 //01-Basics✅
 //02-IfElse.cpp✅
 //03-Loop✅
-
+//04-pattern's
+//
 
 
 
