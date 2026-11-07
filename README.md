@@ -83,8 +83,11 @@ output.exe
 //01-Basics✅
 //02-IfElse.cpp✅
 //03-Loop✅
-//04-pattern's
-//
+//04-pattern's✅
+//05-while-do-while✅
+//06-operator✅
+//07-decimal to binary✅
+//08-function✅
 
 
 
